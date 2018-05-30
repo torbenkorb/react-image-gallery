@@ -2,7 +2,7 @@
   "name": "react-image-gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://torbenkorb.github.io/react-image-gallery/",
+  "homepage": "https://torbenkorb.github.io/react-image-gallery",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.4.0",
